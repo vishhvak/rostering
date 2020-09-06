@@ -1,0 +1,1051 @@
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue status of T false
+
+------------
+
+9
+POLLING FOR UJ!
+CONTROLLERS AVAILABLE:
+{}
+CONTROLLER CHOSEN: undefined
+NO ONE TO SIGN OFF!
+ERROR!
+History guy I
+SIGNED OFF T from UI!
+Relieved Queue status of T true
+SIGNED IN I to UI!
+Assigned Queue status of I true
+7
+
+------------
+
+8
+POLLING FOR UI!
+CONTROLLERS AVAILABLE:
+{ T: false }
+CONTROLLER CHOSEN: T
+SIGNED OFF I from UI!
+Relieved Queue status of I false
+SIGNED IN T to UI!
+Assigned Queue st

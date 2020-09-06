@@ -1,0 +1,33 @@
+
+Approach 1: Brute force
+
+1.1: Simpler Constraints - Fixed work time, no breaks, no currency metrics.
+1.2: Choice of work time between (0.5,1,1.5,2), include breaks. 
+
+- Random choice from available controllers for a given hour fails when there is an overlap of controllers between units.
+Constraint required? = Minimum number of unique controllers eligible for a given unit > 1.
+- Using currency as a metric over random choice for more meaningful rosters. 
+#TODO:
+- Think of a Recursive algorithm.
+- Use genetic algorithm to optimize brute force results.
+
+Approach 1.5 - How can I bring in Stacks/Queues here? 
+
+Approach 2: Object Oriented Programming 
+
+- Optimize structure of employee and units with classes. Find out benefits to outline them in report.
+- 
+
+Approach 2.5: Knapsack? 
+
+Approach 3: Tree Based Search
+
+Approach 4: Genetic Algorithm Optimization
+
+Approach 5: Google OR Tools
+-
+
+Approach 6: OptaPlanner
+- 
+
+Maths behind constraint optimization. Algorithm complexities? 

@@ -1,4 +1,8 @@
 
+import numpy as np
+import copy
+import json
+import random
 """
     Constraints:
 
@@ -56,10 +60,6 @@
     Backtracking and Look Ahead is yet to be implemented. 
 """
 
-import random
-import json
-import copy
-import numpy as np
 
 class Roster:
     def __init__(self, units, controllers, shift_duration):
@@ -92,7 +92,8 @@ class Roster:
 
         eligible_controllers = {}
         for unit in self.units:
-            filtered_controllers = [ctrl for ctrl in controllers if unit.name in ctrl.ratings]            
+            filtered_controllers = [
+                ctrl for ctrl in controllers if unit.name in ctrl.ratings]
             eligible_controllers[unit] = sorted(
                 filtered_controllers, key=lambda x: x.currencies[unit.name], reverse=True)
         print(eligible_controllers)
@@ -128,7 +129,8 @@ class Roster:
                 2. His break time is over, i.e his last work time was at least one timeslot before the current timeslot in consideration.
             """
             if self.time_slot != 0:
-                is_break_time_over = (self.time_slot - ctrl.last_work_time) > self.required_break_time
+                is_break_time_over = (
+                    self.time_slot - ctrl.last_work_time) > self.required_break_time
             else:
                 is_break_time_over = True
 
@@ -170,18 +172,18 @@ class Roster:
         for time in np.arange(0, self.shift_duration, 0.5):
 
             free_units = dict(filter(
-            lambda x: x[0].assign_next_at == self.time_slot, self.get_available_controllers().items()))
+                lambda x: x[0].assign_next_at == self.time_slot, self.get_available_controllers().items()))
 
             for i in range(0, len(free_units)):
                 next_unit = self.get_next_unit()
                 ctrl = self.get_next_controller(next_unit)
                 next_unit.set_assigned_controller(ctrl, time)
-            self.roster[self.time_slot] = dict([(unit.name, unit.assigned_controller.id) for unit in self.units])
+            self.roster[self.time_slot] = dict(
+                [(unit.name, unit.assigned_controller.id) for unit in self.units])
             print("Roster for timeslot ", self.time_slot, "\n\n")
-            print(json.dumps(self.roster[self.time_slot], indent=4),"\n\n")
+            print(json.dumps(self.roster[self.time_slot], indent=4), "\n\n")
             self.time_slot += 0.5
         return self.roster
-        
 
     def print_roster(self):
         """
@@ -198,6 +200,7 @@ class Roster:
                 assigned_guy = self.roster[j][unit.name]
                 print(f"\t{assigned_guy}", end="")
         print("\n")
+
 
 class Unit:
     def __init__(self, name):
@@ -224,7 +227,7 @@ class Unit:
         new_controller.is_working = True
         self.set_next_assign_time(time)
         new_controller.update_currency(self.name, self.assign_next_at)
-    
+
     def set_next_assign_time(self, time):
         """
             Sets assign_next_at based on if else conditions using currency value for given unit in consideration.
@@ -238,7 +241,7 @@ class Unit:
             self.assign_next_at = time + 1
         else:
             self.assign_next_at = time + 0.5
-    
+
     def __str__(self):
         return self.name
 
@@ -285,7 +288,7 @@ class Controller:
             Subtracts time_worked from currency.
         """
         self.currencies[rating] -= time_worked
-        
+
     def __str__(self):
         return self.id
 
@@ -306,28 +309,49 @@ unit_list = [U1, U2, U3, U4, U5, U6, U7]
 ratings = [u.name for u in unit_list]
 
 # Assigns ID, and random sample of rating list to each conroller.
-C1 = Controller('10013968', random.sample(ratings, random.randint(1, len(ratings))))
-C2 = Controller('10013969', random.sample(ratings, random.randint(1, len(ratings))))
-C3 = Controller('10013960', random.sample(ratings, random.randint(1, len(ratings))))
-C4 = Controller('10013961', random.sample(ratings, random.randint(1, len(ratings))))
-C5 = Controller('10013962', random.sample(ratings, random.randint(1, len(ratings))))
-C6 = Controller('10013963', random.sample(ratings, random.randint(1, len(ratings))))
-C7 = Controller('10013964', random.sample(ratings, random.randint(1, len(ratings))))
-C8 = Controller('10013965', random.sample(ratings, random.randint(1, len(ratings))))
-C9 = Controller('10013966', random.sample(ratings, random.randint(1, len(ratings))))
-C10 = Controller('10013967', random.sample(ratings, random.randint(1, len(ratings))))
-C11 = Controller('10013970', random.sample(ratings, random.randint(1, len(ratings))))
-C12 = Controller('10013971', random.sample(ratings, random.randint(1, len(ratings))))
-C13 = Controller('10013972', random.sample(ratings, random.randint(1, len(ratings))))
-C14 = Controller('10013973', random.sample(ratings, random.randint(1, len(ratings))))
-C15 = Controller('10013974', random.sample(ratings, random.randint(1, len(ratings))))
-C16 = Controller('10013958', random.sample(ratings, random.randint(1, len(ratings))))
-C17 = Controller('10013948', random.sample(ratings, random.randint(1, len(ratings))))
-C18 = Controller('10013938', random.sample(ratings, random.randint(1, len(ratings))))
-C19 = Controller('10013928', random.sample(ratings, random.randint(1, len(ratings))))
-C20 = Controller('10013918', random.sample(ratings, random.randint(1, len(ratings))))
+C1 = Controller('10013968', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C2 = Controller('10013969', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C3 = Controller('10013960', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C4 = Controller('10013961', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C5 = Controller('10013962', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C6 = Controller('10013963', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C7 = Controller('10013964', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C8 = Controller('10013965', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C9 = Controller('10013966', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C10 = Controller('10013967', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C11 = Controller('10013970', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C12 = Controller('10013971', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C13 = Controller('10013972', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C14 = Controller('10013973', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C15 = Controller('10013974', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C16 = Controller('10013958', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C17 = Controller('10013948', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C18 = Controller('10013938', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C19 = Controller('10013928', random.sample(
+    ratings, random.randint(1, len(ratings))))
+C20 = Controller('10013918', random.sample(
+    ratings, random.randint(1, len(ratings))))
 
-controllers = [C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20]
+controllers = [C1, C2, C3, C4, C5, C6, C7, C8, C9, C10,
+               C11, C12, C13, C14, C15, C16, C17, C18, C19, C20]
 
 data = {}
 ctrl_dict = {}
